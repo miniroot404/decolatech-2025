@@ -1,7 +1,7 @@
 package brunaalana.dio.decolatech_2025.model;
 
-import jakarta.persistence.*;
 
+import jakarta.persistence.*;
 import java.math.BigDecimal;
 
 @Entity(name = "tb_account")

@@ -1,4 +1,4 @@
-package brunaalana.dio.decolatech_2025.repository;
+package brunaalana.dio.decolatech_2025.model.repository;
 
 import brunaalana.dio.decolatech_2025.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
